@@ -1,0 +1,29 @@
+_repo: Old-Tavern-SignsAn-Excursion-in-the-History-of-Hospitality_41869
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41869-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Endell, Fritz August Gottfried
+    alias: Endel, Fritz
+    birthdate: 1873
+    deathdate: 1955
+    gutenberg_agent_id: '31700'
+    url: http://www.gutenberg.org/2009/agents/31700
+description: Illustrated by the author.
+gutenberg_issued: '2013-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41869'
+  lccn: '16024700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taverns (Inns)'
+- !lcsh 'Inn signs'
+- !lcc 'GT'
+title: 'Old Tavern Signs: An Excursion in the History of Hospitality'
+url: http://www.gutenberg.org/ebooks/41869
