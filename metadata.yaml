@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31700'
     url: http://www.gutenberg.org/2009/agents/31700
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41869#Old-Tavern-SignsAn-Excursion-in-the-History-of-Hospitality
 gutenberg_issued: '2013-01-18'
 gutenberg_type: Text
 identifiers:
